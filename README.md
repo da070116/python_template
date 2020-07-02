@@ -11,6 +11,10 @@
 
 **Badges will go here**
 
+
+![Travis (.com)](https://img.shields.io/travis/com/da70116/python_template)
+![GitHub](https://img.shields.io/github/license/da070116/python_template)
+
 ***INSERT ANOTHER GRAPHIC HERE***
 
 
